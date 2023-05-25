@@ -1,0 +1,22 @@
+{
+  "AllProducts": [
+    {
+      "id": 2,
+      "title": "Smart-Shoose",
+      "details": "This is Smart Shoos",
+      "email": "Smart123@gmail.com"
+    },
+    {
+      "id": 1,
+      "title": "T-Shirt",
+      "details": "this is t-shirt",
+      "email": "T-shirt234@gmail.com"
+    },
+    {
+      "id": 2,
+      "title": "Smart-Shoose",
+      "details": "This is Smart Shoos",
+      "email": "Smart123@gmail.com"
+    }
+  ]
+}
