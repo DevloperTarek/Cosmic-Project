@@ -327,6 +327,74 @@
                 </div>
             </div>
         </main>
+        <footer class="bg-white pt-20 pb-12 border-t border-gray-200">
+                    <div class="container grid grid-cols-3">
+                        <!-- footer text -->
+                        <div class="col-span-1 space-y-8">
+                            <img src="./images/logo.svg" alt="logo img" class=  "w-30"/>
+                            <p class="text-gray-400 font-Roboto text-medium tracking-wide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quidem.</p>
+                            <!-- link icons -->
+                            <div class="flex space-x-6">
+                                <a href="#" class="text-gray-300 hover:text-gray-500">
+                                   <FaceSmileIcon class="w-8 h-8 text-gray-400 hover:text-gray-500 transition"/>
+                                </a>
+                                 <a href="#" class="text-gray-300 hover:text-gray-500">
+                                    <HandThumbUpIcon class="w-8 h-8 text-gray-400 hover:text-gray-500 transition"/>
+                                </a>
+                                 <a href="#" class="text-gray-300 hover:text-gray-500">
+                                    <TrophyIcon class="w-8 h-8 text-gray-400 hover:text-gray-500 transition"/>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-span-2 grid grid-cols-2 gap-8">
+                            <div class="grid grid-cols-2 gap-8">
+                               <div>
+                                     <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Solution</h3>
+                                    <div class="mt-4 space-y-4">
+                                        <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                         <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                         <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                         <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                             
+                                    </div>
+                               </div>
+                               <div>
+                                         <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Solution</h3>
+                                        <div class="mt-4 space-y-4">
+                                            <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                             <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                             <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                             <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                             
+                                        </div>
+                                   </div>
+                            </div>
+                   
+                            <div class="grid grid-cols-2 gap-8">                        
+                               <div>
+                                     <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Solution</h3>
+                                    <div class="mt-4 space-y-4">
+                                        <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                        <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                        <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                        <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                    </div>
+                               </div>
+                        
+                                 <div>
+                                         <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wider">Solution</h3>
+                                        <div class="mt-4 space-y-4">
+                                            <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                            <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                            <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                            <a href="#" class="text-sm text-gray-400 uppercase tracking-wider hover:text-primary transition font-Roboto block">Marketting</a>
+                                        </div>
+                                   </div>
+                        
+                            </div>
+                        </div>
+                    </div>
+                </footer>   
     </div>
     
 </template>
